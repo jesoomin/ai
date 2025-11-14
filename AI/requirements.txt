@@ -1,0 +1,19 @@
+streamlit
+langchain
+openai
+faiss-cpu
+sentence-transformers
+python-dotenv
+tqdm
+pydantic
+requests
+uvicorn
+fastapi
+python-multipart
+weaviate-client==3.21.0 
+
+
+# optional for AOAI streaming/azure
+où
+azure-identity
+azure-core
